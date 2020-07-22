@@ -1,0 +1,25 @@
+[
+    {
+        "id": 0,
+        "title": "task one",
+        "description": "lorem ipsum",
+        "done": false,
+        "symptoms": "pain"
+    
+    },
+    {
+        "id": 1,
+        "title": "task two",
+        "description": "lorem ipsum",
+        "done": false,
+        "symptoms": "cough"
+
+    },
+    {
+        "id": 2,
+        "title": "task three",
+        "description": "lorem ipsum",
+        "done": true,
+        "symptoms": "headache"
+    }
+]
